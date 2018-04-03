@@ -1,0 +1,6 @@
+#ac682c Sienna
+#576478 Slate Gray
+#dad8d2 Light Gray
+#2d2c30 Dark Slate Gray
+#8a7a6f Gray
+
